@@ -1,0 +1,1 @@
+# threathunting_logstash_rules
