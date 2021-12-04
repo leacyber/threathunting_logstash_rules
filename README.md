@@ -1,4 +1,4 @@
-# Threathunting Logstash Rules
+# Lea_cyber's Threathunting Logstash Rules
 
 [ENG] In my Twitch channel (twitch.tv/lea_cyber) I talk about Threat Hunting and how we detect certain attack vectors in pentesting.
 Here are the rules we use in logstash and also how we use a system of alerts to SLACK by Webhooks.
