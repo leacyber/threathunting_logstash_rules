@@ -8,7 +8,6 @@ IOCs detected:
 Aquí están las reglas que utilizamos en logstash y además de como utilizamos un sistema de alertas a SLACK por Webhooks.
 IOCs detectados:
 
-- RDP Brute Force
 - Folder/file Access
 - Man in the Middle ipv6
 - mimikatz
